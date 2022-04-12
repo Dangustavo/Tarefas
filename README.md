@@ -127,7 +127,7 @@ Este repositório contém a API que será utilizada como backend na aplicação.
 
          [<br/>
                     {<br/>
-        "id": numver,<br/>
+        "id": number,<br/>
         "title": String,<br/>
         "description": String,<br/>
         "place": String,<br/>
@@ -205,7 +205,7 @@ Este repositório contém a API que será utilizada como backend na aplicação.
     - Body
     [<br/>
                 {<br/>
-    "id": numver,<br/>
+    "id": number,<br/>
     "title": String,<br/>
     "description": String,<br/>
     "place": String,<br/>
